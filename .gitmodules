@@ -1,0 +1,3 @@
+[submodule "PiThermalCam"]
+	path = PiThermalCam
+	url = https://github.com/tomshaffner/PiThermalCam.git
